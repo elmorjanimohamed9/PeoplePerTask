@@ -10,7 +10,7 @@ Welcome to People Per Task, your go-to destination for freelance talent! Our Git
 
 - Light/dark mode toggle
 - User Dashbard
-- Admin Dashboard
+- Dynamic Admin Dashboard
 - Reactive design
 - Home Page
 - Contact Page
@@ -18,15 +18,21 @@ Welcome to People Per Task, your go-to destination for freelance talent! Our Git
 - Sign Up Page
 - About Page
 - Apply Details Page
+- language switcher
 
 ## Screenshots
 
-![App Header]([https://i.imgur.com/VShjZ98.png](https://github.com/BilalChbanat/PeoplePerTask/assets/117037147/53ed22de-f7a9-4640-89b5-42038840b578))
+![App Header](https://i.imgur.com/VShjZ98.png)
 
+![App Footer](https://i.imgur.com/BlWPQtL.png)
 
 ![App SignUp](https://i.imgur.com/ZtbSJCI.png)
 
 ![App SignIn](https://i.imgur.com/jk1Djnk.png)
+
+![App Freelancers](https://i.imgur.com/mAhOk9B.png)
+
+![App AddProjects](https://i.imgur.com/b5LG6LZ.png)
 
 ## 🚀 Code Hooligans
 
@@ -37,7 +43,7 @@ UI/UX Developer
 ### Bilal Chbanat
 Front End Developer
 ### Yassir Elkhaili
-Front End Engineer
+Full Stack Engineer
 
 ## 🛠 Techs and tools
 <div align="left">
@@ -48,6 +54,8 @@ Front End Engineer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -62,6 +70,8 @@ Front End Engineer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
 </div>
 
 ###
@@ -71,7 +81,19 @@ Front End Engineer
 
 You can check the Jira tasks and workflow here:
 
-[Jira Board](https://nonesite.atlassian.net/jira/software/projects/PW/boards/3)
+[Jira Board Front-End](https://nonesite.atlassian.net/jira/software/projects/PW/boards/3)
+
+[Jira Board Back-End](https://nonesite.atlassian.net/jira/software/projects/PB/boards/6)
+
+## Figma high-fidelity Wireframes:
+
+You can check the PeoplePerTask Figma Wireframes here:
+
+[Light Mode](https://www.figma.com/file/SwIbGfBQa2EmWebRvQykYM/PeoplePerTask?type=design&node-id=0-1&mode=design&t=bEmUhMAucq63ekLu-0)
+
+[Dark Mode](https://www.figma.com/file/huQvDZegJ3RifhtAnewJaV/PeoplePerTask-Darck-Mode?type=design&node-id=0-1&mode=design&t=erfxPmNEWktOrsZ3-0)
+
+[Dashboard](https://www.figma.com/file/lVscoO7eKRuMm5t8ef5x9m/Fintech-dashboard-(Community)?type=design&node-id=0-1&mode=design&t=YzGBvQQkP8UTlbKV-0)
 
 ## Live Demo
 
@@ -106,16 +128,13 @@ npm install
 ```bash
 npm start
 ```
+6. Host the repository using wamp, xamp, laragon or any other software stack solution out there
 
-6. start the dev server using vscode's live server extension
+7. start the dev server using vscode's live server extension
 
-7. why are you still reading this, get to work you lazy cookie
+8. why are you still reading this, get to work you lazy cookie
 
 ### Maintainer 
 
-- This Readme is being maintained by [Yassir Elkhaili](https://github.com/yassirelkhaili)
-- Email: [elkhailiyassir@gmail.com](mailto:elkhailiyassir@gmail.com)
-
-
-
-
+- This Readme is being maintained by [Mohamed El Morjani](https://github.com/elmorjanimohamed9)
+- Email: [elmorjanimohamed9@gmail.com](mailto:elmorjanimohamed9@gmail.com)
